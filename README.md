@@ -25,4 +25,4 @@ Hi, I'm Oleg. I work in the field of data analysis (Python, Matlab) and mobile d
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href=" linkedin.com/in/oleg-kozyrev-921827a9" target="_blank">Oleg Kozyrev</a> Email: o.kozirev@gmail.com</p>
+<p align="center"> Email: o.kozirev@gmail.com</p>
